@@ -1,0 +1,26 @@
+# Core data handling
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# NLP processing
+nltk
+spacy
+wordcloud
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Topic Modeling
+gensim
+
+# Dashboard / UI
+streamlit
+
+# Utilities
+tqdm
